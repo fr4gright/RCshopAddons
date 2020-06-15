@@ -1,0 +1,9 @@
+name: RCshopAddons
+version: 1.2
+main: me.rvt.rcshopaddons.RCshopAddons
+api-version: 1.13
+authors: [RvT]
+description: Shop Addons for RebrovoCraft
+website: rebrovocraft.info
+depend:
+  - Essentials
